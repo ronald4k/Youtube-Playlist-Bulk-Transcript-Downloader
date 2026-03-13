@@ -1,0 +1,27 @@
+# Never upload these to GitHub
+youtube_cookies.txt
+cookies.txt
+*.cookies
+
+# Output transcripts (personal data)
+Transcripts/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
