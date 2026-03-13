@@ -48,8 +48,8 @@ Click the green **Code** button on this page → **Download ZIP** → extract it
 
 Or if you have Git installed:
 ```
-git clone https://github.com/Spawzer/yt-transcript-downloader.git
-cd yt-transcript-downloader
+git clone https://github.com/ronald4k/Youtube-Playlist-Bulk-Transcript-Downloader
+cd Youtube-Playlist-Bulk-Transcript-Downloader
 ```
 
 ### 2. Export your YouTube cookies (recommended)
